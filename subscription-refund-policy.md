@@ -3,7 +3,7 @@
 
 # Subscription & Refund Policy
 
-**Effective Date:** [Effective Date]
+**Effective Date:** August 21, 2026
 
 This policy explains how MintCheck's paid subscription (Bundle Grading)
 works, including billing, cancellation, and refunds.
@@ -58,4 +58,4 @@ for existing subscribers.
 
 ## Contact Us
 
-Questions about your subscription? Contact us at [support email address].
+Questions about your subscription? Contact us at support.mintcheck@gmail.com.

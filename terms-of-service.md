@@ -3,7 +3,7 @@
 
 # Terms of Service
 
-**Effective Date:** [Effective Date]
+**Effective Date:** August 21, 2026
 
 These Terms of Service ("Terms") govern your use of the MintCheck app
 ("MintCheck," "we," "us," or "our"). By creating an account or using the app,
@@ -77,4 +77,4 @@ accept the updated Terms.
 
 ## Contact Us
 
-Questions about these Terms? Contact us at [support email address].
+Questions about these Terms? Contact us at support.mintcheck@gmail.com.
